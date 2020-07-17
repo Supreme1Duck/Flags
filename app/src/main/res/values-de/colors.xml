@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="italy_start">#FF0000</color>
+    <color name="italy_center">#F9FAFA</color>
+    <color name="italy_end">#1EB613</color>
+    <color name="irland_start">#DF6304</color>
+    <color name="germany_center">#FF0000</color>
+    <color name="germany_start">#000000</color>
+    <color name="germany_end">#FFBF00</color>
+    <color name="default_center">#0141B1</color>
+    <color name="default_end">#FF0000</color>
+    <color name="default_start">#ffffff</color>
+</resources>
